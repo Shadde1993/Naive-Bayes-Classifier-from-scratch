@@ -1,1 +1,1 @@
-# Naive-Bayes-Classifier-from-scratch
+# Naive-Bayes-Classifier
